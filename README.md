@@ -1,2 +1,2 @@
-# python-ile-ast-m-ve-koah-tahminlemesi-
+# python-ile-astim-ve-koah-tahminlemesi-
 makine öğrenimi projesi
