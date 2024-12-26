@@ -1,2 +1,3 @@
-# python-ile-astim-ve-koah-tahminlemesi-
-makine öğrenimi projesi
+
+### python ile makine öğrenimi projesi
+"veri seti hakkında bilgi" isimli word dosyasında projenin detaylı çözümleri ve açıklamaları rapor halinde verilmiştir.
